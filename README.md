@@ -1,6 +1,6 @@
 # null_or_empty
 
-[![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
+[![Node CI](https://github.com/SheilaOnyango/CI-CD/actions/workflows/whatever.yml/badge.svg)](https://github.com/SheilaOnyango/CI-CD/actions/workflows/whatever.yml)
 
 A simple Node.js package that checks, if a given string is null or empty.
 
@@ -8,11 +8,11 @@ A simple Node.js package that checks, if a given string is null or empty.
 
 First, install the package using npm:
 
-    npm install @skalwar/null_or_empty --save
+    npm install @SheilaOnyango/CI-CD --save
 
 Then, require the package and use it like so:
 
-    var isNullOrEmpty = require('@skalwar/null_or_empty');
+    var isNullOrEmpty = require('@SheilaOnyango/CI-CD');
 
     console.log(isNullOrEmpty("")); // true
     console.log(isNullOrEmpty(null)); // true
